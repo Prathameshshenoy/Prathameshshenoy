@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Prathamesh Shenoy
+# 👋 Hi, I'm Prathamesh
 
 🎓 3rd Year Computer Science Student @ PES University Bangalore
 
