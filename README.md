@@ -1,18 +1,21 @@
-# 👋 Hi, I'm Prathamesh Shenoy  
+# 👋 Hi, I'm Prathamesh Shenoy
 
-🎓 3rd Year Computer Science Student @ PES University Bangalore
-💻 Aspiring Software Engineer | Passionate about Systems, Backend, and Full-Stack Development  
-
----
-
-## 🚀 About Me  
-- 🌱 Exploring **system design, distributed systems, and DevOps practices**  
-- 🛠️ Experienced with **Python, FastAPI, Node.js, React, Docker, Redis, PostgreSQL, AWS**  
-- 📊 Love building **data-driven applications** and **scalable backend systems**  
+<div align="center">
+    <h3>🎓 3rd Year Computer Science Student @ PES University Bangalore</h3>
+    <h3>💻 Aspiring Software Engineer | Passionate about Systems, Backend, and Full-Stack Development</h3>
+</div>
 
 ---
 
-## 📊 GitHub Stats  
+## 🚀 About Me
+
+- 🌱 Exploring **system design, distributed systems, and DevOps practices**
+- 🛠️ Experienced with **Python, FastAPI, Node.js, React, Docker, Redis, PostgreSQL, AWS**
+- 📊 Love building **data-driven applications** and **scalable backend systems**
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prathameshshenoy&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
@@ -21,27 +24,32 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-### Languages & Tools  
+### Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,react,nodejs,express,fastapi,nextjs,git,docker" height="50"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,js,html,css,react,nodejs,express,fastapi,nextjs,git,docker" height="50"/>
+  </a>
 </p>
 
-### Databases  
+### Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" height="50"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" height="50"/>
+  </a>
 </p>
 
-### Platforms & Cloud  
+### Platforms & Cloud
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="50"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws" height="50"/>
+  </a>
 </p>
 
 ---
 
-## 📫 Connect with Me  
-- 💼 [LinkedIn](https://linkedin.com/in/prathamesh-shenoy)  
-- 📧 **prathamesh.shenoy28@gmail.com**  
+## 📫 Connect with Me
 
----
+- 💼 **LinkedIn:** [linkedin.com/in/prathamesh-shenoy](https://linkedin.com/in/prathamesh-shenoy)
+- 📧 **Email:** **prathamesh.shenoy28@gmail.com**
