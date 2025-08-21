@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prathamesh Shenoy  
 
-🎓 3rd Year Computer Science Student @ PES University  
+🎓 3rd Year Computer Science Student @ PES University Bangalore
 💻 Software Engineer in the making | Passionate about Systems, Backend, and Full-Stack Development  
 
 ---
