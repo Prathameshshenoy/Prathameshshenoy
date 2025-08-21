@@ -19,10 +19,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathameshshenoy&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathameshshenoy&theme=tokyonight" alt="GitHub Streak" height="180"/>
-</p>
-
 ---
 
 ## 🛠️ Tech Stack  
