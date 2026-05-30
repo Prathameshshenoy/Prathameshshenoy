@@ -2,13 +2,13 @@
 
 🎓 3rd Year Computer Science Student @ PES University Bangalore
 
-💻 Aspiring Software Engineer | Passionate about Systems, Backend, and Full-Stack Development
+💻 Aspiring Software Engineer | Passionate about Systems, Backend, and AI/ML
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Exploring **system design, distributed systems, and DevOps practices**
+- 🌱 Exploring **system design, distributed systems, AI/ML Technologies *
 - 🛠️ Experienced with **Python, FastAPI, Node.js, React, Docker, Redis, PostgreSQL, AWS**
 - 📊 Love building **data-driven applications** and **scalable backend systems**
 
