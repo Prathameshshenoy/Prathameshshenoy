@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🌱 Exploring **system design, distributed systems, AI/ML Technologies *
+- 🌱 Exploring **system design, distributed systems, AI/ML Technologies**
 - 🛠️ Experienced with **Python, FastAPI, Node.js, React, Docker, Redis, PostgreSQL, AWS**
 - 📊 Love building **data-driven applications** and **scalable backend systems**
 
