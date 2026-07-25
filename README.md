@@ -25,9 +25,11 @@
 
 ### AI / ML
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch" height="50"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn" height="50"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge" height="50"/>
 </p>
-
 ---
 
 ## 📫 Connect with Me
