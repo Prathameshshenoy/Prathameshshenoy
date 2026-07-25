@@ -1,45 +1,35 @@
 # 👋 Hi, I'm Prathamesh
-
-🎓 3rd Year Computer Science Student @ PES University Bangalore
-
-💻 Aspiring Software Engineer | Passionate about Systems, Backend, and AI/ML
+🎓 3rd Year CSE Student @ PES University, Bengaluru
+<br>
+💻 Engineering Intern @ TANUH IISc | Systems, Backend, and AI/ML
 
 ---
 
 ## 🚀 About Me
-
-- 🌱 Exploring **system design, distributed systems, AI/ML Technologies**
-- 🛠️ Experienced with **Python, FastAPI, Node.js, React, Docker, Redis, PostgreSQL, AWS**
-- 📊 Love building **data-driven applications** and **scalable backend systems**
+- 🧠 Currently building ML pipelines for speech-based mental health screening @ TANUH
+- 🛠️ Building **systems, backend infra, and applied ML** — from CUDA-accelerated dedup engines to LLM safety frameworks
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### Languages & Tools
+### Languages & Web
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,js,html,css,react,nodejs,express,fastapi,nextjs,git,docker" height="50"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,nodejs,express,fastapi,nextjs,git,docker" height="50"/>
 </p>
 
-### Databases
+### Databases & Cloud
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" height="50"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,aws" height="50"/>
 </p>
 
-### Platforms & Cloud
+### AI / ML
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws" height="50"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=pytorch" height="50"/>
 </p>
 
 ---
 
 ## 📫 Connect with Me
-
 - 💼 **LinkedIn:** [linkedin.com/in/prathamesh-shenoy](https://linkedin.com/in/prathamesh-shenoy)
-- 📧 **Email:** **prathamesh.shenoy28@gmail.com**
+- 📧 **Email:** prathamesh.shenoy28@gmail.com
