@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Prathamesh
 🎓 3rd Year CSE Student @ PES University, Bengaluru
 <br>
-💻 Engineering Intern @ TANUH IISc | AI/MLm Systems and Backend 
+💻 Engineering Intern @ TANUH IISc | AI/ML, Systems and Backend 
 
 ---
 
